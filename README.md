@@ -55,5 +55,3 @@ This repository contains the code and resources for the DRL CMB Project, which f
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 # DRL_CBM
-# DRL_CBM
-# DQN_CBM
