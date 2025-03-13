@@ -1,6 +1,6 @@
-# DRL CMB Project
+# DRL CBM Project
 
-This repository contains the code and resources for the DRL CMB Project, which focuses on developing and utilizing surrogate models and drl models for optimization tasks. Below is an overview of the directory structure and key files.
+This repository contains the code and resources for the DRL CBM Project, which focuses on developing and utilizing surrogate models and drl models for optimization tasks. Below is an overview of the directory structure and key files.
 
 ## Directory Structure
 
@@ -8,8 +8,8 @@ This repository contains the code and resources for the DRL CMB Project, which f
 - **data_cleaning**: Scripts and tools for cleaning and preprocessing data.
 - **draw**: Utilities for generating visualizations and plots.
 - **drl**: Code related to Deep Reinforcement Learning (DRL) implementations.
-- **figure**: directory for figures for DRL_CMB.
-- **figures**: directory for figures for surrogate_CMB.
+- **figure**: directory for figures for DRL_CBM.
+- **figures**: directory for figures for surrogate_CBM.
 - **logs**: Log files for tracking experiments and model training.
 - **models**: Saved model files and related configurations.
 - **scaler**: Tools for data scaling and normalization.
@@ -21,8 +21,8 @@ This repository contains the code and resources for the DRL CMB Project, which f
 - **.gitignore**: Specifies files and directories to be ignored by Git.
 - **config.py**: Python configuration file for project settings.
 - **config.yaml**: YAML configuration file for project settings.
-- **main.py**: Main script to surrogate_CMB.
-- **\drl\traindqn.py**:Main script to DRL_CMB.
+- **main.py**: Main script to surrogate_CBM.
+- **\drl\traindqn.py**:Main script to DRL_CBM.
 - **notebook.txt**: Notes and documentation from Jupyter notebooks.
 - **problems.md**: Documentation of known issues and problems.
 - **README.md**: This file, providing an overview of the project.
@@ -32,7 +32,7 @@ This repository contains the code and resources for the DRL CMB Project, which f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DRL_CMB.git
+   git clone https://github.com/yourusername/DRL_CBM.git
    ```
 2. Install the required dependencies:
    ```bash
