@@ -1,0 +1,21 @@
+train-episodes: 1000
+GasExtractionEnv:
+  time_steps: 55 #33
+  observation_space:
+    shape_x: 4
+    shape_y: 18
+  max_drainage: 3500 #50
+  min_drainage: 0 #10
+
+start-column: 18
+end-column: 35
+figure:
+  width: 10
+  height: 6
+
+
+surrogate_model:
+  input_size: 18
+  hidden_size: 30
+  num_layers: 3
+  output_size: 17
